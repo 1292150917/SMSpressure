@@ -19,8 +19,10 @@ npm run start
 
 ```
 
+
 浏览器访问 127.0.0.1:3000  端口
 
+![https://1292150917.github.io/SMSpressure/1609814322(1).jpg](https://1292150917.github.io/SMSpressure/1609814322(1).jpg)
 
 # 联系邮箱  
 
