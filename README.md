@@ -9,6 +9,8 @@
 
 # 运行
 
+需要有node环境 以及 selenium-webdriver的google环境
+
 ```javascript
 
 npm install 
@@ -17,7 +19,7 @@ npm run start
 
 ```
 
-浏览器访问 127.0.0.1:3000 端口
+浏览器访问 127.0.0.1:3000  端口
 
 
 # 联系邮箱  
