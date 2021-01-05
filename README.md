@@ -11,6 +11,8 @@
 
 需要有node环境 以及 selenium-webdriver的google环境
 
+[google的环境文章](https://www.cnblogs.com/shuchang1001/p/13563962.html)
+
 ```javascript
 
 npm install 
